@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0132/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0132/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛為年少比丘說正事經
+  identifiers:
+    krp: KR6i0132
+    cbeta: T14n0502
+    cbeta_old_id: T14n0502
+    authorityid: CA0001085
+    json_key: T0502
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0502.xml
+    old_id: T14n0502
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0132_000-T.yaml, hash: 'sha256:0feb8e264a654f1fb5c50bcac333754168518cdc51fa52dc2e7125b8648ddb92'}
+  - {seq: 1, filename: KR6i0132_001-T.yaml, hash: 'sha256:536b79b3070286d16076ca050a4a620067166b56a82ff1e6403e714e1aea5ac2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0132_000-T.markers.yaml, hash: 'sha256:66d7d30d17b493da805f2fd231138feaadedbe1e86fc27d5db08e6639d5a2a30'}
+  - {seq: 1, role: markers, filename: assets/KR6i0132_001-T.markers.yaml, hash: 'sha256:d2e8081d97a3c24769ad59be350fe1f5a0f231bb5a4bff66441621b6c14cf081'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0132_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 763
+  label: 佛為年少比丘說正事經
+  type: juan
+  level: 1
+hash: sha256:84ad01ab69c5f31a21684cb72febd8bfe7de18bce658f725c8ae303320b64c46

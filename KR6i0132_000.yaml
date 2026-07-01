@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0132/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛為年少比丘說正事經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0502.xml
+    old_id: T14n0502
+hash: sha256:0feb8e264a654f1fb5c50bcac333754168518cdc51fa52dc2e7125b8648ddb92

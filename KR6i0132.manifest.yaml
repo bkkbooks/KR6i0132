@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0132_000.yaml, hash: 'sha256:0feb8e264a654f1fb5c50bcac333754168518cdc51fa52dc2e7125b8648ddb92'}
-  - {seq: 1, filename: KR6i0132_001.yaml, hash: 'sha256:9ed55da0c518966e9c1a0471d65d53329463f6a3fe4599f64f375e9b92151602'}
+  - {seq: 1, filename: KR6i0132_001.yaml, hash: 'sha256:536b79b3070286d16076ca050a4a620067166b56a82ff1e6403e714e1aea5ac2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0132_001.markers.yaml, hash: 'sha256:13134fed8f5620a7861b0ba1e2211af0cfecfcc6c1a34c054891aa7d990c459a'}
+  - {seq: 0, role: markers, filename: assets/KR6i0132_000.markers.yaml, hash: 'sha256:8f25910b018cb8ff924b0f33e0f8824893059c24fde3d0faebd1a1ec5fdcbdd1'}
+  - {seq: 1, role: markers, filename: assets/KR6i0132_001.markers.yaml, hash: 'sha256:d907227b9ab9e4791797d5cb5bfacc2e8c6034805990234780f8183a1722f521'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛為年少比丘說正事經
   type: juan
   level: 1
-hash: sha256:d8ffe8302ac1298edd46dcdc73fa2fe988550222ece73c90019982a1ad55b7ee
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6e86225d1693765895e4b62ba3ce099fc72b86aa347704ea331a73b1c6a96f50

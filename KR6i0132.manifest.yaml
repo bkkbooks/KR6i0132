@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0132/v1
 canonical_location: https://kanripo.org/bkk/KR6i0132/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛為年少比丘說正事經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0132_000.yaml, hash: 'sha256:0feb8e264a654f1fb5c50bcac333754168518cdc51fa52dc2e7125b8648ddb92'}
-  - {seq: 1, filename: KR6i0132_001.yaml, hash: 'sha256:536b79b3070286d16076ca050a4a620067166b56a82ff1e6403e714e1aea5ac2'}
+  - {seq: 1, filename: KR6i0132_001.yaml, hash: 'sha256:30ac727f60f84fa0dad46fecc4a6fa5d58291e071584bb1230ef4e8ef505dc4f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0132_000.markers.yaml, hash: 'sha256:8f25910b018cb8ff924b0f33e0f8824893059c24fde3d0faebd1a1ec5fdcbdd1'}
-  - {seq: 1, role: markers, filename: assets/KR6i0132_001.markers.yaml, hash: 'sha256:d907227b9ab9e4791797d5cb5bfacc2e8c6034805990234780f8183a1722f521'}
+  - {seq: 1, role: markers, filename: assets/KR6i0132_001.markers.yaml, hash: 'sha256:773a8c18732dfe2842696250f268fa399fdfcb38241a3c27f611d5f4e5de4917'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛為年少比丘說正事經
   type: juan
   level: 1
-hash: sha256:6e86225d1693765895e4b62ba3ce099fc72b86aa347704ea331a73b1c6a96f50
+hash: sha256:24ae93b8c4ab80fe040a80c595f42537fc13f2e0957287f0df27c98940bc61e1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
